@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+recsys/bin/
+recsys/lib/
+recsys/lib64/
+recsys/include/
+recsys/pyvenv.cfg
+recsys/share/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environments
+.env
+.venv
